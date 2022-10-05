@@ -1,0 +1,20 @@
+.Login{
+    margin-top: 50%;
+    border: 1px solid #000;
+    font-size: 20px;
+    padding: 10px 40px;
+    background-color: white;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.LoginI{
+    padding: 10px 20px;
+}
+
+#LB1{
+    margin-top: 10px;
+    padding: 2px 10px;
+    background-color: rgb(225, 219, 219);
+}

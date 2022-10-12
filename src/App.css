@@ -1,0 +1,7 @@
+body{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(90deg, rgba(59,237,220,1) 0%, rgba(102,208,214,1) 50%, rgba(0,212,255,1) 100%);
+}
